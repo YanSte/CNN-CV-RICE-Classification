@@ -1,2 +1,2 @@
-# CNN-RICE-Classification-with-Convolutional-Neural-Networks-
-| CNN | CV | Rice | Classification with CNN
+# | CNN | CV | Rice | Classification
+## Convolutional Neural Networks (CNN) with Computer Vision (CV) for Rice Classification
